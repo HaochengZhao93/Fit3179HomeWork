@@ -33,5 +33,7 @@
       {"field": "properties.NAME", "type": "nominal", "title": "Country"},
       {"field": "Y1961", "type": "quantitative"}
     ]
+  },
+  "config":{
   }
 }
